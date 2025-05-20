@@ -1,16 +1,16 @@
 @font-face {
     font-family: 'Cloister';
-    src: url('./fonts/CloisterBlackLight-axjg.ttf');
+    src: url('./fonts/Cloister/CloisterBlackLight-axjg.ttf');
 }
 
 @font-face {
     font-family: 'Arrancar';
-    src: url('./fonts/Arrancar-AL7r2.ttf');
+    src: url('./fonts/Arrancar/Arrancar-AL7r2.ttf');
 }
 
 @font-face {
     font-family: 'Hangyaku';
-    src: url('./fonts/Hangyaku-G3rpg.ttf');
+    src: url('./fonts/Hangyaku/Hangyaku-G3rpg.ttf');
 }
 
 body {
