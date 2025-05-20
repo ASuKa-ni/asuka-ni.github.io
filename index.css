@@ -1,0 +1,64 @@
+@font-face {
+    font-family: 'Cloister';
+    src: url('./fonts/CloisterBlackLight-axjg.ttf');
+}
+
+@font-face {
+    font-family: 'Arrancar';
+    src: url('./fonts/Arrancar-AL7r2.ttf');
+}
+
+@font-face {
+    font-family: 'Hangyaku';
+    src: url('./fonts/Hangyaku-G3rpg.ttf');
+}
+
+body {
+    background-color: black; 
+}
+
+h1.title {
+    color: red;
+    font-family: 'Cloister';
+    width: 100vm;
+    text-align: center;
+    font-size: 5rem;
+    margin: 0%;
+    padding: 1rem 0;
+    box-sizing: border-box;
+}
+
+p.home-message {
+    color: red;
+    font-family: 'Arrancar';
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+.home-aboutme {
+    color: red;
+    font-family: 'Hangyaku';
+    text-align: center;
+    font-size: 3rem;
+
+}
+
+.home-bar {
+    color: red;
+    font-family: 'Arrancar';
+    font-size: 1rem;
+}
+
+div.home-top-bar { 
+    width: 100%;
+    top: 0;
+    text-align: center;
+    position: fixed;
+}
+
+div.home-bottom-bar {
+    width: 100%;
+    bottom: 0;
+    text-align: center;
+    position: fixed;
+}
